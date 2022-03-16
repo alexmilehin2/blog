@@ -1,0 +1,7 @@
+[submodule "alexm/themes/ananke"]
+	path = alexm/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "alexm/public"]
+	path = alexm/public
+	url = https://github.com/alexmilehin2/alexmilehin2.github.io.git
+	branch = main
