@@ -15,6 +15,11 @@ draft: false
 
 # Полезные ссылки
 
-https://github.com/alexmilehin2/
+https://eLibrary.ru/
 https://scholar.google.com/
-http://www.mathprofi.ru/
+https://orcid.org/
+https://www.mendeley.com/
+https://www.researchgate.net/
+https://www.academia.edu/
+https://arxiv.org/
+https://github.com/
