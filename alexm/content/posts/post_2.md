@@ -1,5 +1,5 @@
 ---
-title: "Information about me"
+title: "Информация обо мне"
 date: 2022-03-16T18:08:13+03:00
 draft: false
 ---
