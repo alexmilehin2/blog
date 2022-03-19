@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Проекты"
 date: 2022-03-18T12:06:04+03:00
 draft: false
 ---
